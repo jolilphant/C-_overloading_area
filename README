@@ -1,0 +1,6 @@
+Please create an area function with 4 different overloads to handle each of these shapes and their inputs.
+You will notice that you need some extra string or bool or something to properly overload triangle and rectangle.
+Circle (given its radius)
+Triangle (given its base and height)
+Rectangle (given its length and width)
+Square (given the length of its side)
